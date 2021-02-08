@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'myownpypipackage',
-    version = '0.0.1',
+    version = '0.0.2',
     license = 'MIT',
     description = 'paquete de prueba',
     author = "Roberto Carro Gastélum",
