@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'pypipackage',
+    name = 'myownpypipackage',
     version = '0.0.1',
     license = 'MIT',
     description = 'paquete de prueba',
